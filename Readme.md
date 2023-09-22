@@ -6,6 +6,8 @@
 
 > Ejemplos de comandos de texto
 
+![baby yoda](./Imagenes/babyyoda.jpeg)
+
 Esto es un readme para aprender a usar git
 
 **Esto es texto en negrita**
