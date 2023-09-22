@@ -36,8 +36,10 @@ El <sup>mensaje</sup> es un superindice
 - [ ] Cuando todas las tareas esten terminadas :tada:
 
 
-Aquí habrá un simple pie de pagina[^1]
+Aquí habrá un simple pie de pagina[^1].
+
 Este año el nano ganará la 33[^2].
+
 [^1]: Alonsista promedio.
 [^2]: Padronso de Ocon.
 
