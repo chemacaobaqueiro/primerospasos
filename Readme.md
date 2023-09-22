@@ -1,5 +1,11 @@
 # Titulo
 
+## Encabezado de segundo nivel
+
+## Encabezado de tercer nivel
+
+> Ejemplos de comandos de texto
+
 Esto es un readme para aprender a usar git
 
 **Esto es texto en negrita**
